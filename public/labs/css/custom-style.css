@@ -1,0 +1,22 @@
+html {position: relative;min-height: 100%;font-family: Arial, Helvetica, sans-serif;font-size:14px;color:#2d353a;}
+body {margin-bottom: 60px;}
+.footer {position: absolute;bottom: 0;width: 100%;height: 60px;background-color: #f5f5f5;}
+
+.admin-nav-bar{height:70px;background:#fff;}
+a.title-admin{display:block;height:70px;background:#de686b;color:#fff;font-size:18px;line-height:70px;padding:0 25px;text-decoration: none;}
+.admin-nav-bar .navbar-nav>li>a{font-size: 24px;padding: 23px 20px;color:#424242;}
+.admin-nav-bar .navbar-nav>li{float: left;}
+.admin-nav-bar .navbar-nav{margin:0;background:#f8f8f8;}
+.mail-a{position: relative;}
+.mail-count{background:#df696c;position: absolute;top:18px;right:4px;}
+.admin-nav-bar .nav>li>a.user-dropdown{font-size:18px;padding: 22px 20px 23px;color:#424242;}
+.admin-nav-bar .nav>li>a.user-dropdown:hover,.admin-nav-bar .nav>li>a.user-dropdown:focus{background: none;color:#424242;}
+.mini-dashboard{background:#2d353a;height:90px;}
+.mini-dashboard ul i{font-size: 32px}
+.mini-dashboard ul li a{color:#858d91;padding: 17px 15px 16px;}
+.mini-dashboard ul li a span{margin: 5px 0 0;display: block;font-weight: bold;}
+.mini-dashboard ul li:hover a{color:#fff;background:#858d91;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
+.bar-battons,.bar-table{margin-top:15px;}
+.bar-battons a ,.bar-battons button{font-size: 18px;}
+.btn{-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
+.article-form{margin-top: 15px;}

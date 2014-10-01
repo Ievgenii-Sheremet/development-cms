@@ -1,0 +1,25 @@
+{
+    "name": "sheremet/adminpanel",
+    "description": "",
+    "authors": [
+        {
+            "name": "sheremet",
+            "email": "sheremet.e.i@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations",
+            "src/controllers",
+            "src/models"
+        ],
+        "psr-0": {
+            "Sheremet\\Adminpanel\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
